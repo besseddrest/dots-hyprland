@@ -1,0 +1,10 @@
+[pyprland]
+plugins = ["expose", "layout_center", "fetch_client_menu"]
+
+[layout_center]
+margin = 200
+offset = [0, 0]
+next = "movefocus r"
+prev = "movefocus l"
+next2 = "movefocus d"
+prev2 = "movefocus u"
