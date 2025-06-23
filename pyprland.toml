@@ -2,7 +2,7 @@
 plugins = ["expose", "layout_center", "fetch_client_menu"]
 
 [layout_center]
-margin = 200
+margin = [700, 300]
 offset = [0, 0]
 next = "movefocus r"
 prev = "movefocus l"
